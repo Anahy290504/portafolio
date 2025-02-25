@@ -33,8 +33,11 @@
 
 ## Talks and Lectures
 -Autocatalytic systems - 18th Bioinformatik Herbstseminar (2022)
+
 -Sistemas Autocatalíticos - LVI Congreso de la Sociedad Matemática Mexicana (2021)
+
 -Whitney’s connectivity inequalities for directed hypergraphs - TBI, Winterseminar (2020)
+
 -Hamiltonian Cycles in normal Cayley graphs - CID (2017)
 
 ## Publications
