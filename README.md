@@ -30,6 +30,28 @@
 - Defined and explored the properties of a connectivity concept for directed hypergraphs, with applications in network analysis and multi-relational data modeling
 
 ## Projects
+## Optimizing Packaging with Machine Learning: A Case Study
+In a recent project within the luxury fashion retail sector, a data science team set out to enhance the package selection process through predictive modeling. The goal was to support packers in choosing the optimal box size swiftly and accurately, thereby improving both the speed and consistency of packing operations. This work was carried out in collaboration with Simon Püschel.
+
+<p align="center">
+  <img src="/Pictures/Packing.jpeg" width=30% height=30%>
+</p>
+
+### Project Overview: Challenges and Solutions
+The existing package selection process relied heavily on experienced packers who determined box sizes based on the types and quantities of items in each order. However, this approach could be time-consuming, particularly for seasonal workers without intuitive expertise. The project aimed to develop a machine learning model capable of quickly and reliably predicting the best package size for each order. One of the main challenges was handling eleven highly imbalanced classes.
+
+Due to the absence of exact volume and weight data for individual items, the team devised methods to estimate these values. By analyzing single-item orders, they derived average volumes for various product categories, which helped feed crucial volume estimates into the model. Similarly, they calculated average weights across categories to serve as reference points, supporting accurate package size predictions.
+
+To address item flexibility—a factor that influences packing decisions—the team implemented a basic classification system. Items with clear identifiers were tagged as “soft” or “hard.” For ambiguous cases, a secondary model was used to analyze product names and assign classifications based on learned patterns. The final model used essential product data such as volume, weight, and quantity to improve prediction accuracy.
+
+### Model Selection and Performance
+The team evaluated several machine learning models to identify the most effective approach. Gradient boosting algorithms achieved the highest accuracy at 64%, outperforming Random Forest and Neural Networks. To further enhance prediction performance, the problem was also reframed as a regression task. Ensemble learning techniques were introduced, and a variety of model combinations were tested to refine the results.
+
+### Future Enhancements
+Although the initial outcomes are promising, there are several potential improvements on the horizon. Creating a more granular product categorization could help the model capture subtle differences in item characteristics. Incorporating actual product weights would enhance precision, and testing the model in a live packing environment would provide real-world feedback for further optimization. This project has laid a strong foundation for a more efficient packaging process, and as refinement continues, predictive modeling is expected to play an increasingly vital role in optimizing packing operations.
+
+
+
 
 ## Algorithms
 
