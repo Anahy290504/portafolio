@@ -50,6 +50,7 @@ The team evaluated several machine learning models to identify the most effectiv
 ### Future Enhancements
 Although the initial outcomes are promising, there are several potential improvements on the horizon. Creating a more granular product categorization could help the model capture subtle differences in item characteristics. Incorporating actual product weights would enhance precision, and testing the model in a live packing environment would provide real-world feedback for further optimization. This project has laid a strong foundation for a more efficient packaging process, and as refinement continues, predictive modeling is expected to play an increasingly vital role in optimizing packing operations.
 
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue)](https://github.com/Anahy290504/Optimizing_Packaging_ML/tree/main)
 
 
 
