@@ -52,7 +52,7 @@ Although the initial outcomes are promising, there are several potential improve
 
 [![View Code](https://img.shields.io/badge/View_Code-GitHub-blue)](https://github.com/Anahy290504/Optimizing_Packaging_ML/tree/main)
 
-
+## Smart Customer Segmentation Using BIRCH and Tailored Clustering Techniques
 
 ## Algorithms
 
