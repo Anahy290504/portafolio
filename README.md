@@ -48,7 +48,7 @@ I am passionate about:
 - Designed an algorithm to find Hamiltonian cycles (tours) in power graphs, with applications in network optimization and graph-based machine learning models.
 - Defined and explored the properties of a connectivity concept for directed hypergraphs, with applications in network analysis and multi-relational data modeling
 
-## Projects
+## Project
 ## Optimizing Packaging with Machine Learning: A Case Study
 In a recent project within the luxury fashion retail sector, a data science team set out to enhance the package selection process through predictive modeling. The goal was to support packers in choosing the optimal box size swiftly and accurately, thereby improving both the speed and consistency of packing operations. This work was carried out in collaboration with Simon Püschel.
 
