@@ -1,7 +1,26 @@
 # Anahy Santiago Arguello
 # Discrete Mathematics | Machine Learning
 
-#### Technical Skills: Python, C/C++, PyTorch, TensorFlow, NumPy, Pandas, SciPy, Matplotlib, sci-kit-learn.
+#### Technical Skills: 
+-Languages: Python, C/C++
+
+-ML/DL: PyTorch, TensorFlow, scikit-learn, CatBoost
+
+-Data Analysis: NumPy, Pandas, SciPy, Matplotlib, Seaborn
+
+-Other: Git, Jupyter, LaTeX
+
+## About me
+
+I am a mathematician and data scientist with a strong background in discrete mathematics, graph theory, and machine learning. After completing my Ph.D. in Mathematics at UNAM and postdoctoral research in Leipzig, I transitioned into applied data science, where I work on projects that bridge theoretical foundations with real-world applications.
+
+I am passionate about:
+
+-Designing machine learning models for real-world problems.
+
+-Exploring the intersection of mathematics, data science, and biology.
+
+-Building efficient algorithms with both theoretical rigor and practical usability.
 
 ## Education
 -Ph.D. in Mathematics | UNAM- IMATE Mexico City (_December 2018_)
@@ -52,9 +71,7 @@ Although the initial outcomes are promising, there are several potential improve
 
 [![View Code](https://img.shields.io/badge/View_Code-GitHub-blue)](https://github.com/Anahy290504/Optimizing_Packaging_ML/tree/main)
 
-## Smart Customer Segmentation Using BIRCH and Tailored Clustering Techniques
 
-## Algorithms
 
 ## Talks and Lectures
 -Autocatalytic systems - 18th Bioinformatik Herbstseminar (2022)
